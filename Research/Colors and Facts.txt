@@ -1,0 +1,70 @@
+LEGO® Brick 2x4 std colors (rgb, hex):
+
+Yellow		250 234 010	#faea0a  
+		245 205 047	#f5cd2f  
+
+Red		247 039 037	#f72725  
+
+
+Blue		070 144 236	#4690ec  
+
+
+"Black"		120 120 120	#787878 
+
+
+Green		055 196 097	#37c461 
+
+
+Dk. Grey	123 123 123	#7b7b7b 
+
+
+Med. Grey	147 147 147	#939393 
+
+
+Brown		086 041 018	#562912 
+(Orange Brown)
+
+Tan		214 195 134	#d6c386 
+(Brick Yellow)
+
+Orange		255 153 050	#  
+
+
+Yellow-Green	180 226 078	#  
+
+
+Pink		237 148 196	#  
+(Lt. Purple)
+
+Purple		090 066 144	#  
+(M. Lilac)
+
+Dk. Azur	055 130 172	#  
+
+
+Med. Lavendel	138 097 160	#  
+
+ 
+Fluor. Orange	237 156 038	#  		
+
+
+
+LEGO® facts (8 for now - array format):
+
+"The LEGO name was created by combining the first two letters of the Danish words 'Leg' and 'Godt,' meaning 'play well.'",
+"The LEGO Group is one of the world’s largest tire manufacturers.",
+"Each LEGO® minifigure is exactly four bricks high without a hat.",
+"The LEGO Group was founded in 1932 in Denmark.",
+"A LEGO® brick from 1958 would still interlock with one made today.",
+"Even though they are eight times the size of regular bricks, the DUPLO LEGO® brick connect perfectly with the regular ones.",
+"The world's largest LEGO® tower stood 112 feet high and contained over 500,000 bricks.",
+"On average there are 86 LEGO® bricks for every person on earth.",
+"There are currently 8 fun facts in this app, not including this one - the same as the number of studs on a standard 2x4 LEGO® brick."
+
+
+Sources:
+
+http://www.ngkids.co.uk/did-you-know/Ten-Top-LEGO-Facts
+http://www.huffingtonpost.com/2014/02/28/lego-facts_n_4862088.html
+http://education.lego.com/en-us/about-us/lego-education-worldwide/lego-facts
+J.D. Sandifer - app developer
