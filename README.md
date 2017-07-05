@@ -1,8 +1,9 @@
 # BrickFunFacts
-A simple LEGO® fun facts app.
+A simple LEGO® fun facts app. Here's the app on the Google Play store: [Brick Fun Facts](https://play.google.com/store/apps/details?id=com.jdsandifer.brickfunfacts)
 
+### Summary Of Work
 This was a tutorial project that I took a few steps further.
-Here's a summary of my improvements:
+Here's a list of my improvements:
 
 - Themed the general fun facts tutorial as a LEGO app.
   (Followed LEGO Group guidelines for the use of their
@@ -17,9 +18,8 @@ Here's a summary of my improvements:
 - Improved the randomization of the facts and colors so
   neither is repeated too often.
 
-Here's the app on the Google Play store: [Brick Fun Facts](https://play.google.com/store/apps/details?id=com.jdsandifer.brickfunfacts)
 
-
+### Future Plans
 When I have time, I'm planning a few additional improvements:
 
 - A better randomization system that keeps facts
